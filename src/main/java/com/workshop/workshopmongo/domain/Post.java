@@ -108,3 +108,4 @@ public class Post implements Serializable {
 		return true;
 	}
 }
+	
